@@ -13,7 +13,7 @@ import androidx.navigation.ui.NavigationUI;
 import com.example.citizenexpress.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
-
+    //test
     private ActivityMainBinding binding;
 
     @Override
