@@ -4,6 +4,40 @@
             "outputFile": "com.example.citizenexpress.app-mergeDebugResources-3:/values/values.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\Public\\Documents\\FIT5046Assignment3\\FIT5046AndroidProject1\\CitizenExpress\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "90,149",
+                        "endColumns": "57,55",
+                        "endOffsets": "143,200"
+                    },
+                    "to": {
+                        "startLines": "978,979",
+                        "startColumns": "4,4",
+                        "startOffsets": "56707,56765",
+                        "endColumns": "57,55",
+                        "endOffsets": "56760,56816"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Public\\Documents\\FIT5046Assignment3\\FIT5046AndroidProject1\\CitizenExpress\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "293,57,105,153,201,247,336",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "330,99,147,195,241,287,373"
+                    },
+                    "to": {
+                        "startLines": "627,879,880,881,892,893,896",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "31914,50167,50214,50261,51005,51050,51216",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "31951,50209,50256,50303,51045,51090,51253"
+                    }
+                },
+                {
                     "source": "C:\\Users\\袁锦辉\\.gradle\\caches\\transforms-3\\722cfa06d51a32340f337ac9798393bf\\transformed\\recyclerview-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
@@ -40,25 +74,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Public\\Documents\\FIT5046Assignment3\\CitizenExpress\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "803"
-                    },
-                    "to": {
-                        "startLines": "6073",
-                        "startColumns": "4",
-                        "startOffsets": "418903",
-                        "endLines": "6085",
-                        "endColumns": "12",
-                        "endOffsets": "419485"
-                    }
-                },
-                {
                     "source": "C:\\Users\\袁锦辉\\.gradle\\caches\\transforms-3\\abd4ddf72d39a1254cd01b6ca1672452\\transformed\\fragment-1.4.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,10",
@@ -75,6 +90,25 @@
                         "endLines": "1648,1684,1721,10948,10952",
                         "endColumns": "56,64,63,24,24",
                         "endOffsets": "106276,108147,110061,678493,678642"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Public\\Documents\\FIT5046Assignment3\\FIT5046AndroidProject1\\CitizenExpress\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "817"
+                    },
+                    "to": {
+                        "startLines": "6073",
+                        "startColumns": "4",
+                        "startOffsets": "418903",
+                        "endLines": "6085",
+                        "endColumns": "12",
+                        "endOffsets": "419485"
                     }
                 },
                 {
@@ -150,20 +184,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Public\\Documents\\FIT5046Assignment3\\CitizenExpress\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\Public\\Documents\\FIT5046Assignment3\\FIT5046AndroidProject1\\CitizenExpress\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "7,2,3,4,5,6,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "286,55,102,149,196,241,328",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "323,97,144,191,236,281,365"
+                        "startLines": "1,3,2,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "17,115,70,170",
+                        "endColumns": "51,53,43,61",
+                        "endOffsets": "64,164,109,227"
                     },
                     "to": {
-                        "startLines": "627,879,880,881,892,893,896",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "31914,50167,50214,50261,51005,51050,51216",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "31951,50209,50256,50303,51045,51090,51253"
+                        "startLines": "1815,1954,1955,1956",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "116356,135981,136035,136079",
+                        "endColumns": "51,53,43,61",
+                        "endOffsets": "116403,136030,136074,136136"
                     }
                 },
                 {
@@ -370,23 +404,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Public\\Documents\\FIT5046Assignment3\\CitizenExpress\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1,3,2,4",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "16,112,68,166",
-                        "endColumns": "51,53,43,61",
-                        "endOffsets": "63,161,107,223"
-                    },
-                    "to": {
-                        "startLines": "1815,1954,1955,1956",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "116356,135981,136035,136079",
-                        "endColumns": "51,53,43,61",
-                        "endOffsets": "116403,136030,136074,136136"
-                    }
-                },
-                {
                     "source": "C:\\Users\\袁锦辉\\.gradle\\caches\\transforms-3\\34be6e117e2e06ff01a6121271053230\\transformed\\lifecycle-runtime-2.5.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -420,23 +437,6 @@
                         "endLines": "13131",
                         "endColumns": "24",
                         "endOffsets": "759558"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Public\\Documents\\FIT5046Assignment3\\CitizenExpress\\app\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "88,146",
-                        "endColumns": "57,55",
-                        "endOffsets": "141,197"
-                    },
-                    "to": {
-                        "startLines": "978,979",
-                        "startColumns": "4,4",
-                        "startOffsets": "56707,56765",
-                        "endColumns": "57,55",
-                        "endOffsets": "56760,56816"
                     }
                 },
                 {
